@@ -6,5 +6,9 @@ Witaj na stronie agregującej informacje o wydarzeniach organizowanych przez Hac
 
 ### Aktualne wydarzenia
 
+1. [co 2 piątek, 19.00 - Otwarty dzień projektowy](./otwarty-dzien-projektowy.html)
+
+
+### Archiwum
 1. [2 X 2020, 17.30 - Własny inteligentny dom](./iot-na-ikm.html)
 

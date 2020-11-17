@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 ![](/images/ikm-otwarty.png)

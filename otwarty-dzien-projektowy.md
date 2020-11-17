@@ -5,11 +5,10 @@ layout: page
 
 ### Otwarty dzień projektowy online
 
-[Pobierz wpis do kalendarza](https://nc.hsp.sh/remote.php/dav/public-calendars/Wke4dxsHoXNcBWHk/4CC90C0F-3860-4FB8-BD43-983EDB407803.ics?export)
 
-Gdzie: online - [meet.jit.si/hsp.sh](https://meet.jit.si/hsp.sh)
-Kiedy: Co dwa tygodnie w piątek o 19.00 , zaczynając od 27 XI 2020 (parzyste tygodnie)
-
+ * Gdzie: online - [meet.jit.si/hsp.sh](https://meet.jit.si/hsp.sh)
+ * Kiedy: Co dwa tygodnie w piątek o 19.00 , zaczynając od 27 XI 2020 (parzyste tygodnie)
+ * [Pobierz wpis do kalendarza](https://nc.hsp.sh/remote.php/dav/public-calendars/Wke4dxsHoXNcBWHk/4CC90C0F-3860-4FB8-BD43-983EDB407803.ics?export)
 
 Witaj, pomysł na spotkanie jest prosty - co drugi piątek o 19 spotykamy się zdalnie na online celem opowiedzenia o swoich projektach - zarówno tych skończonych jak i tych co są w trakcie. Po co? 
 

@@ -6,7 +6,7 @@ layout: page
 ### Hackday - Dzień otwarty w Hackerspace Pomorze
 
  * kiedy: każdy czwartek 20.00
- * gdzie: na czas pandemii online [meet.jit.si/hsp.sh](./hackaday-redirect.html)
+ * gdzie: na czas pandemii [spotkanie online](./hackaday-redirect.html)
  * [Pobierz wpis do kalendarza](https://nc.hsp.sh/remote.php/dav/public-calendars/Wke4dxsHoXNcBWHk/033BF9F0-B475-4B6C-A306-AFF883348F2F.ics?export)
 
 Dzień otwarty! Hackday to cotygodniowe spotkanie członków Stowarzyszenia Hackerspace Pomorze, otwarte również dla wszystkich innych zainteresowanych.

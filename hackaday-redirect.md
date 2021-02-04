@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect: https://meet.jit.si/hsp.sh
+redirect: https://play.workadventu.re/_/global/hspsh.github.io/hspVenture/map.json
 ---
 
